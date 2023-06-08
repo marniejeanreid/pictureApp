@@ -11,6 +11,7 @@
 		BDA36D212A0E921700E00950 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA36D202A0E921700E00950 /* ContentView.swift */; };
 		BDA36D232A0E921800E00950 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA36D222A0E921800E00950 /* Assets.xcassets */; };
 		BDA36D262A0E921800E00950 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA36D252A0E921800E00950 /* Preview Assets.xcassets */; };
+		BDA36D2D2A0E96CF00E00950 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA36D2C2A0E96CF00E00950 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BDA36D202A0E921700E00950 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDA36D222A0E921800E00950 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDA36D252A0E921800E00950 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDA36D2C2A0E96CF00E00950 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BDA36D1E2A0E921700E00950 /* pictureAppApp.swift */,
 				BDA36D202A0E921700E00950 /* ContentView.swift */,
+				BDA36D2C2A0E96CF00E00950 /* ImagePicker.swift */,
 				BDA36D222A0E921800E00950 /* Assets.xcassets */,
 				BDA36D242A0E921800E00950 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDA36D2D2A0E96CF00E00950 /* ImagePicker.swift in Sources */,
 				BDA36D212A0E921700E00950 /* ContentView.swift in Sources */,
 				BDA36D1F2A0E921700E00950 /* pictureAppApp.swift in Sources */,
 			);
